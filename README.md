@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Taiwo! <br/><a href="https://github.com/CyberTeeX">Soc Analyst</a>, <a href="https://www.linkedin.com/in/oluwaseye-ogunjobi-6a86a028b">Cybersecurity Professional</a>
+  
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<!--
-**CyberTeeX/CyberTeeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b> Wireshark Traffic Analysis</b>
+  - [Understanding packet analysis,Network protocol, Traffic filtering, Incident investigation basic] (https://github.com/CyberTeeX)
+- <b> Wireshark Malware Analysis( )</b>
+  - [Analysing a .pcapng file](https://github.com/CyberTeeX) <b><i></b></i>
 
-Here are some ideas to get you started:
+<h2> 🤳 Connect with me:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="ogunjobi oluwaseye | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ogunjobi oluwaseye | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ogunjobi oluwaseye | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://x.com/ogunjob16876406
+[instagram]: https://www.instagram.com/ogunjobioluwaseye
+[linkedin]: https://www.linkedin.com/in/oluwaseye-ogunjobi-6a86a028b
