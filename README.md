@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Wireshark Traffic Analysis</b>
-  - [Understanding packet analysis,Network protocol, Traffic filtering, Incident investigation basic] (https://github.com/CyberTeeX/Wireshark-Traffic-Analysis)
+  - [Understanding packet analysis,Network protocol, Traffic filtering, Incident investigation basic] (https://github.com/CyberTeeX/Wireshark-Traffic-Analysis-)
 - <b> Wireshark Malware Analysis( )</b>
   - [Analysing a .pcapng file](https://github.com/CyberTeeX) <b><i></b></i>
 
